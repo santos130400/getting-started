@@ -37,3 +37,7 @@ body {
 button:focus {
     border: 1px solid #333;
 }
+#integrantes
+{
+    text-align: center;
+}
